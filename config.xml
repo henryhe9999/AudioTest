@@ -1,5 +1,5 @@
 <widget id="yourdomain.mp3" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Test Audio</name>
+    <name>TestAudio</name>
     <description>
         Test Audio
     </description>
